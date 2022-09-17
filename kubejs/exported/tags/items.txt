@@ -1,0 +1,3180 @@
+To refresh this file, delete it and run /reload command again! Last updated: Sep 15, 2022 4:43:17 PM
+
+#forge:glass_panes/magenta
+- minecraft:magenta_stained_glass_pane
+- tconstruct:magenta_clear_stained_glass_pane
+
+#forge:seeds/amaranth
+
+#forge:crops/green_bean
+
+#forge:nuggets
+- #forge:nuggets/iron
+- #forge:nuggets/gold
+- #forge:nuggets/bronze
+- #forge:nuggets/constantan
+- #forge:nuggets/copper
+- #forge:nuggets/electrum
+- #forge:nuggets/enderium
+- #forge:nuggets/invar
+- #forge:nuggets/lead
+- #forge:nuggets/lumium
+- #forge:nuggets/nickel
+- #forge:nuggets/signalum
+- #forge:nuggets/silver
+- #forge:nuggets/tin
+- #forge:nuggets/copper
+- #forge:nuggets/cobalt
+- #forge:nuggets/slimesteel
+- #forge:nuggets/silicon_bronze
+- #forge:nuggets/rose_gold
+- #forge:nuggets/pig_iron
+- #forge:nuggets/queens_slime
+- #forge:nuggets/manyullyn
+- #forge:nuggets/hepatizon
+- #forge:nuggets/soulsteel
+- #forge:nuggets/knightslime
+
+#forge:gears
+- #forge:gears/bronze
+- #forge:gears/constantan
+- #forge:gears/copper
+- #forge:gears/diamond
+- #forge:gears/electrum
+- #forge:gears/emerald
+- #forge:gears/enderium
+- #forge:gears/gold
+- #forge:gears/invar
+- #forge:gears/iron
+- #forge:gears/lapis
+- #forge:gears/lead
+- #forge:gears/lumium
+- #forge:gears/netherite
+- #forge:gears/nickel
+- #forge:gears/quartz
+- #forge:gears/ruby
+- #forge:gears/sapphire
+- #forge:gears/signalum
+- #forge:gears/silver
+- #forge:gears/tin
+
+#forge:plates
+- #forge:plates/bronze
+- #forge:plates/constantan
+- #forge:plates/copper
+- #forge:plates/electrum
+- #forge:plates/enderium
+- #forge:plates/gold
+- #forge:plates/invar
+- #forge:plates/iron
+- #forge:plates/lead
+- #forge:plates/lumium
+- #forge:plates/netherite
+- #forge:plates/nickel
+- #forge:plates/signalum
+- #forge:plates/silver
+- #forge:plates/tin
+
+#forge:dyes/gray
+- minecraft:gray_dye
+
+#forge:nuggets/electrum
+- thermal:electrum_nugget
+
+#forge:plates/netherite
+- thermal:netherite_plate
+
+#tconstruct:casts/single_use/blank
+- tconstruct:blank_sand_cast
+- tconstruct:blank_red_sand_cast
+
+#forge:gems/sulfur
+- thermal:sulfur
+
+#tconstruct:stoneshields
+- #forge:stone
+- #forge:cobblestone
+- #forge:sandstone
+- #forge:end_stones
+- #forge:gravel
+- minecraft:netherrack
+- minecraft:basalt
+- minecraft:polished_basalt
+- minecraft:blackstone
+- minecraft:polished_blackstone
+
+#forge:rods/blaze
+- minecraft:blaze_rod
+
+#forge:storage_blocks/netherite
+- minecraft:netherite_block
+
+#forge:glass_panes/white
+- minecraft:white_stained_glass_pane
+- tconstruct:white_clear_stained_glass_pane
+
+#forge:coins/invar
+- thermal:invar_coin
+
+#forge:ingots/silver
+- thermal:silver_ingot
+
+#tconstruct:slimy_leaves
+- tconstruct:earth_slime_leaves
+- tconstruct:sky_slime_leaves
+- tconstruct:ender_slime_leaves
+
+#forge:glass_panes/light_gray
+- minecraft:light_gray_stained_glass_pane
+- tconstruct:light_gray_clear_stained_glass_pane
+
+#forge:dusts/lumium
+- thermal:lumium_dust
+
+#forge:armor/copper
+
+#forge:storage_blocks/nickel
+- thermal:nickel_block
+
+#tconstruct:casts/multi_use/tool_binding
+- tconstruct:tool_binding_cast
+
+#tconstruct:modifiable
+- #tconstruct:modifiable/multipart
+- #tconstruct:modifiable/durability
+- #tconstruct:modifiable/melee_or_harvest
+- #tconstruct:modifiable/aoe
+- #tconstruct:modifiable/held
+
+#forge:ores/niter
+- thermal:niter_ore
+
+#forge:nuggets/bronze
+- thermal:bronze_nugget
+
+#forge:dusts/constantan
+- thermal:constantan_dust
+
+#forge:armor/diamond
+- minecraft:diamond_boots
+- minecraft:diamond_chestplate
+- minecraft:diamond_helmet
+- minecraft:diamond_leggings
+
+#forge:glass/pink
+- minecraft:pink_stained_glass
+- tconstruct:pink_clear_stained_glass
+
+#forge:chests
+- #forge:chests/ender
+- #forge:chests/trapped
+- #forge:chests/wooden
+
+#forge:storage_blocks/emerald
+- minecraft:emerald_block
+
+#forge:ores/redstone
+- minecraft:redstone_ore
+
+#forge:gears/silver
+- thermal:silver_gear
+
+#forge:ingots/hepatizon
+- tconstruct:hepatizon_ingot
+
+#forge:glass/red
+- minecraft:red_stained_glass
+- tconstruct:red_clear_stained_glass
+
+#forge:dusts/lapis
+- thermal:lapis_dust
+
+#forge:armor/nickel
+
+#forge:slimeball/blood
+- tconstruct:blood_slime_ball
+
+#forge:ingots/soulsteel
+- tconstruct:soulsteel_ingot
+
+#forge:ender_pearls
+- minecraft:ender_pearl
+
+#forge:glass_panes/green
+- minecraft:green_stained_glass_pane
+- tconstruct:green_clear_stained_glass_pane
+
+#tconstruct:casts/single_use
+- #tconstruct:casts/single_use/blank
+- #tconstruct:casts/single_use/ingot
+- #tconstruct:casts/single_use/nugget
+- #tconstruct:casts/single_use/gem
+- #tconstruct:casts/single_use/rod
+- #tconstruct:casts/single_use/repair_kit
+- #tconstruct:casts/single_use/plate
+- #tconstruct:casts/single_use/gear
+- #tconstruct:casts/single_use/coin
+- #tconstruct:casts/single_use/wire
+- #tconstruct:casts/single_use/pickaxe_head
+- #tconstruct:casts/single_use/small_axe_head
+- #tconstruct:casts/single_use/small_blade
+- #tconstruct:casts/single_use/hammer_head
+- #tconstruct:casts/single_use/broad_axe_head
+- #tconstruct:casts/single_use/broad_blade
+- #tconstruct:casts/single_use/tool_binding
+- #tconstruct:casts/single_use/large_plate
+- #tconstruct:casts/single_use/tool_handle
+- #tconstruct:casts/single_use/tough_handle
+
+#tconstruct:seeds
+- #forge:seeds
+- minecraft:carrot
+- minecraft:potato
+- minecraft:nether_wart
+
+#forge:chests/trapped
+- minecraft:trapped_chest
+
+#forge:ingots/pig_iron
+- tconstruct:pig_iron_ingot
+
+#forge:fence_gates
+- #forge:fence_gates/wooden
+
+#forge:ingots
+- #forge:ingots/iron
+- #forge:ingots/gold
+- #forge:ingots/brick
+- #forge:ingots/nether_brick
+- #forge:ingots/netherite
+- #forge:ingots/bronze
+- #forge:ingots/constantan
+- #forge:ingots/copper
+- #forge:ingots/electrum
+- #forge:ingots/enderium
+- #forge:ingots/invar
+- #forge:ingots/lead
+- #forge:ingots/lumium
+- #forge:ingots/nickel
+- #forge:ingots/signalum
+- #forge:ingots/silver
+- #forge:ingots/tin
+- tconstruct:seared_brick
+- tconstruct:scorched_brick
+- #forge:ingots/copper
+- #forge:ingots/cobalt
+- #forge:ingots/slimesteel
+- #forge:ingots/silicon_bronze
+- #forge:ingots/rose_gold
+- #forge:ingots/pig_iron
+- #forge:ingots/queens_slime
+- #forge:ingots/manyullyn
+- #forge:ingots/hepatizon
+- #forge:ingots/soulsteel
+- #forge:ingots/knightslime
+
+#thermal:crafting/casts
+- thermal:chiller_ball_cast
+- thermal:chiller_ingot_cast
+- thermal:chiller_rod_cast
+
+#tconstruct:scorched_blocks
+- tconstruct:scorched_stone
+- tconstruct:polished_scorched_stone
+- tconstruct:scorched_bricks
+- tconstruct:scorched_road
+- tconstruct:chiseled_scorched_bricks
+
+#forge:coins/silver
+- thermal:silver_coin
+
+#forge:crops/nether_wart
+- minecraft:nether_wart
+
+#forge:sandstone
+- minecraft:sandstone
+- minecraft:cut_sandstone
+- minecraft:chiseled_sandstone
+- minecraft:smooth_sandstone
+- minecraft:red_sandstone
+- minecraft:cut_red_sandstone
+- minecraft:chiseled_red_sandstone
+- minecraft:smooth_red_sandstone
+
+#forge:storage_blocks/copper
+- thermal:copper_block
+- tconstruct:copper_block
+
+#forge:glass_panes/colorless
+- minecraft:glass_pane
+- tconstruct:clear_glass_pane
+
+#minecraft:coals
+- minecraft:coal
+- minecraft:charcoal
+
+#tconstruct:casts/multi_use/nugget
+- tconstruct:nugget_cast
+
+#forge:tools/silver
+
+#forge:storage_blocks/cinnabar
+- thermal:cinnabar_block
+
+#forge:dusts/invar
+- thermal:invar_dust
+
+#forge:plates/constantan
+- thermal:constantan_plate
+
+#forge:ingots/nether_brick
+- minecraft:nether_brick
+
+#forge:gears/enderium
+- thermal:enderium_gear
+
+#forge:coins/gold
+- thermal:gold_coin
+
+#forge:storage_blocks/lapis
+- minecraft:lapis_block
+
+#minecraft:beds
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:cyan_bed
+- minecraft:gray_bed
+- minecraft:green_bed
+- minecraft:light_blue_bed
+- minecraft:light_gray_bed
+- minecraft:lime_bed
+- minecraft:magenta_bed
+- minecraft:orange_bed
+- minecraft:pink_bed
+- minecraft:purple_bed
+- minecraft:white_bed
+- minecraft:yellow_bed
+
+#tconstruct:seared_bricks
+- tconstruct:seared_bricks
+- tconstruct:seared_fancy_bricks
+- tconstruct:seared_triangle_bricks
+
+#forge:ores/diamond
+- minecraft:diamond_ore
+
+#forge:ores/lead
+- thermal:lead_ore
+
+#forge:ingots/manyullyn
+- tconstruct:manyullyn_ingot
+
+#minecraft:doors
+- #minecraft:wooden_doors
+- minecraft:iron_door
+
+#forge:ores/prosperity
+- mysticalagriculture:prosperity_ore
+
+#forge:ingots/knightslime
+- tconstruct:knightslime_ingot
+
+#thermal:crafting/dies
+- thermal:press_coin_die
+- thermal:press_gear_die
+- thermal:press_packing_2x2_die
+- thermal:press_packing_3x3_die
+- thermal:press_unpacking_die
+
+#forge:dyes/orange
+- minecraft:orange_dye
+
+#forge:storage_blocks/sugar_cane
+- thermal:sugar_cane_block
+
+#forge:storage_blocks/signalum
+- thermal:signalum_block
+
+#forge:storage_blocks/invar
+- thermal:invar_block
+
+#forge:dusts/bronze
+- thermal:bronze_dust
+
+#forge:coins/tin
+- thermal:tin_coin
+
+#tconstruct:casts/single_use/wire
+- tconstruct:wire_sand_cast
+- tconstruct:wire_red_sand_cast
+
+#tconstruct:casts/single_use/gem
+- tconstruct:gem_sand_cast
+- tconstruct:gem_red_sand_cast
+
+#forge:plates/silver
+- thermal:silver_plate
+
+#tconstruct:casts/multi_use/coin
+- tconstruct:coin_cast
+
+#tconstruct:casts/single_use/broad_blade
+- tconstruct:broad_blade_sand_cast
+- tconstruct:broad_blade_red_sand_cast
+
+#forge:ores/tin
+- thermal:tin_ore
+
+#forge:crops/strawberry
+
+#tconstruct:casts/single_use/hammer_head
+- tconstruct:hammer_head_sand_cast
+- tconstruct:hammer_head_red_sand_cast
+
+#forge:nuggets/soulsteel
+- tconstruct:soulsteel_nugget
+
+#forge:glass/white
+- minecraft:white_stained_glass
+- tconstruct:white_clear_stained_glass
+
+#minecraft:signs
+- minecraft:oak_sign
+- minecraft:spruce_sign
+- minecraft:birch_sign
+- minecraft:acacia_sign
+- minecraft:jungle_sign
+- minecraft:dark_oak_sign
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- tconstruct:greenheart_sign
+- tconstruct:skyroot_sign
+- tconstruct:bloodshroom_sign
+
+#forge:glass_panes/red
+- minecraft:red_stained_glass_pane
+- tconstruct:red_clear_stained_glass_pane
+
+#minecraft:fishes
+- minecraft:cod
+- minecraft:cooked_cod
+- minecraft:salmon
+- minecraft:cooked_salmon
+- minecraft:pufferfish
+- minecraft:tropical_fish
+
+#forge:nuggets/manyullyn
+- tconstruct:manyullyn_nugget
+
+#forge:dusts/wood
+- thermal:sawdust
+
+#forge:seeds/frost_melon
+
+#forge:wither_bones
+- tconstruct:necrotic_bone
+
+#forge:crops/barley
+
+#forge:armor/invar
+
+#forge:storage_blocks/sapphire
+- thermal:sapphire_block
+
+#forge:sand/colorless
+- minecraft:sand
+
+#forge:coins/constantan
+- thermal:constantan_coin
+
+#forge:tools/scythe
+- tconstruct:kama
+- tconstruct:scythe
+
+#forge:slimeball/ender
+- tconstruct:ender_slime_ball
+
+#forge:seeds/tea
+
+#forge:ingots/invar
+- thermal:invar_ingot
+
+#forge:foods/fish/raw
+- minecraft:cod
+- minecraft:salmon
+- minecraft:tropical_fish
+
+#forge:crops/hops
+
+#forge:storage_blocks/charcoal
+- thermal:charcoal_block
+
+#forge:ingots/enderium
+- thermal:enderium_ingot
+
+#forge:armor/netherite
+- minecraft:netherite_boots
+- minecraft:netherite_chestplate
+- minecraft:netherite_helmet
+- minecraft:netherite_leggings
+
+#tconstruct:modifiable/melee/sword
+- tconstruct:sword
+- tconstruct:cleaver
+
+#forge:gems/diamond
+- minecraft:diamond
+
+#minecraft:walls
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
+- mysticalagriculture:soulstone_cobble_wall
+- mysticalagriculture:soulstone_bricks_wall
+
+#tconstruct:slimy_logs
+- #tconstruct:greenheart_logs
+- #tconstruct:skyroot_logs
+- #tconstruct:bloodshroom_logs
+
+#mysticalagriculture:seeds
+- mysticalagriculture:air_seeds
+- mysticalagriculture:earth_seeds
+- mysticalagriculture:water_seeds
+- mysticalagriculture:fire_seeds
+- mysticalagriculture:inferium_seeds
+- mysticalagriculture:stone_seeds
+- mysticalagriculture:dirt_seeds
+- mysticalagriculture:wood_seeds
+- mysticalagriculture:ice_seeds
+- mysticalagriculture:nature_seeds
+- mysticalagriculture:dye_seeds
+- mysticalagriculture:nether_seeds
+- mysticalagriculture:coal_seeds
+- mysticalagriculture:coral_seeds
+- mysticalagriculture:honey_seeds
+- mysticalagriculture:pig_seeds
+- mysticalagriculture:chicken_seeds
+- mysticalagriculture:cow_seeds
+- mysticalagriculture:sheep_seeds
+- mysticalagriculture:squid_seeds
+- mysticalagriculture:fish_seeds
+- mysticalagriculture:slime_seeds
+- mysticalagriculture:turtle_seeds
+- mysticalagriculture:rubber_seeds
+- mysticalagriculture:silicon_seeds
+- mysticalagriculture:sulfur_seeds
+- mysticalagriculture:aluminum_seeds
+- mysticalagriculture:copper_seeds
+- mysticalagriculture:saltpeter_seeds
+- mysticalagriculture:apatite_seeds
+- mysticalagriculture:mystical_flower_seeds
+- mysticalagriculture:marble_seeds
+- mysticalagriculture:limestone_seeds
+- mysticalagriculture:basalt_seeds
+- mysticalagriculture:iron_seeds
+- mysticalagriculture:nether_quartz_seeds
+- mysticalagriculture:glowstone_seeds
+- mysticalagriculture:redstone_seeds
+- mysticalagriculture:obsidian_seeds
+- mysticalagriculture:prismarine_seeds
+- mysticalagriculture:zombie_seeds
+- mysticalagriculture:skeleton_seeds
+- mysticalagriculture:creeper_seeds
+- mysticalagriculture:spider_seeds
+- mysticalagriculture:rabbit_seeds
+- mysticalagriculture:tin_seeds
+- mysticalagriculture:bronze_seeds
+- mysticalagriculture:zinc_seeds
+- mysticalagriculture:brass_seeds
+- mysticalagriculture:silver_seeds
+- mysticalagriculture:lead_seeds
+- mysticalagriculture:graphite_seeds
+- mysticalagriculture:blizz_seeds
+- mysticalagriculture:blitz_seeds
+- mysticalagriculture:basalz_seeds
+- mysticalagriculture:tinkers_bronze_seeds
+- mysticalagriculture:slimesteel_seeds
+- mysticalagriculture:pig_iron_seeds
+- mysticalagriculture:manasteel_seeds
+- mysticalagriculture:steeleaf_seeds
+- mysticalagriculture:ironwood_seeds
+- mysticalagriculture:ender_biotite_seeds
+- mysticalagriculture:aquamarine_seeds
+- mysticalagriculture:sky_stone_seeds
+- mysticalagriculture:certus_quartz_seeds
+- mysticalagriculture:quartz_enriched_iron_seeds
+- mysticalagriculture:gold_seeds
+- mysticalagriculture:lapis_lazuli_seeds
+- mysticalagriculture:end_seeds
+- mysticalagriculture:experience_seeds
+- mysticalagriculture:blaze_seeds
+- mysticalagriculture:ghast_seeds
+- mysticalagriculture:enderman_seeds
+- mysticalagriculture:steel_seeds
+- mysticalagriculture:nickel_seeds
+- mysticalagriculture:constantan_seeds
+- mysticalagriculture:electrum_seeds
+- mysticalagriculture:invar_seeds
+- mysticalagriculture:mithril_seeds
+- mysticalagriculture:tungsten_seeds
+- mysticalagriculture:titanium_seeds
+- mysticalagriculture:uranium_seeds
+- mysticalagriculture:chrome_seeds
+- mysticalagriculture:ruby_seeds
+- mysticalagriculture:sapphire_seeds
+- mysticalagriculture:signalum_seeds
+- mysticalagriculture:lumium_seeds
+- mysticalagriculture:hop_graphite_seeds
+- mysticalagriculture:cobalt_seeds
+- mysticalagriculture:rose_gold_seeds
+- mysticalagriculture:elementium_seeds
+- mysticalagriculture:osmium_seeds
+- mysticalagriculture:fluorite_seeds
+- mysticalagriculture:refined_glowstone_seeds
+- mysticalagriculture:refined_obsidian_seeds
+- mysticalagriculture:knightmetal_seeds
+- mysticalagriculture:fiery_ingot_seeds
+- mysticalagriculture:starmetal_seeds
+- mysticalagriculture:compressed_iron_seeds
+- mysticalagriculture:fluix_seeds
+- mysticalagriculture:energized_steel_seeds
+- mysticalagriculture:blazing_crystal_seeds
+- mysticalagriculture:diamond_seeds
+- mysticalagriculture:emerald_seeds
+- mysticalagriculture:netherite_seeds
+- mysticalagriculture:wither_skeleton_seeds
+- mysticalagriculture:platinum_seeds
+- mysticalagriculture:iridium_seeds
+- mysticalagriculture:enderium_seeds
+- mysticalagriculture:manyullyn_seeds
+- mysticalagriculture:queens_slime_seeds
+- mysticalagriculture:hepatizon_seeds
+- mysticalagriculture:terrasteel_seeds
+- mysticalagriculture:rock_crystal_seeds
+- mysticalagriculture:draconium_seeds
+- mysticalagriculture:yellorium_seeds
+- mysticalagriculture:cyanite_seeds
+- mysticalagriculture:niotic_crystal_seeds
+- mysticalagriculture:spirited_crystal_seeds
+- mysticalagriculture:uraninite_seeds
+
+#forge:glass/green
+- minecraft:green_stained_glass
+- tconstruct:green_clear_stained_glass
+
+#itemfilters:filters
+- itemfilters:always_true
+- itemfilters:always_false
+- itemfilters:or
+- itemfilters:and
+- itemfilters:not
+- itemfilters:xor
+- itemfilters:tag
+- itemfilters:mod
+- itemfilters:item_group
+- itemfilters:id_regex
+- itemfilters:damage
+- itemfilters:block
+- itemfilters:max_count
+- itemfilters:strong_nbt
+- itemfilters:weak_nbt
+- itemfilters:custom
+
+#forge:storage_blocks/lead
+- thermal:lead_block
+
+#minecraft:music_discs
+- #minecraft:creeper_drop_music_discs
+- minecraft:music_disc_pigstep
+
+#tconstruct:modifiable/melee_or_harvest
+- #tconstruct:modifiable/melee
+- #tconstruct:modifiable/harvest
+
+#tconstruct:structure_debug/general
+
+#forge:gems
+- #forge:gems/diamond
+- #forge:gems/emerald
+- #forge:gems/lapis
+- #forge:gems/prismarine
+- #forge:gems/quartz
+- #forge:gems/apatite
+- #forge:gems/cinnabar
+- #forge:gems/niter
+- #forge:gems/ruby
+- #forge:gems/sapphire
+- #forge:gems/sulfur
+
+#forge:ores/soulium
+- mysticalagriculture:soulium_ore
+
+#minecraft:sand
+- minecraft:sand
+- minecraft:red_sand
+
+#forge:plates/bronze
+- thermal:bronze_plate
+
+#forge:nuggets/hepatizon
+- tconstruct:hepatizon_nugget
+
+#forge:end_stones
+- minecraft:end_stone
+
+#forge:nuggets/netherite_scrap
+- tconstruct:debris_nugget
+
+#forge:ores/sulfur
+- thermal:sulfur_ore
+
+#forge:fences/wooden
+- minecraft:oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- tconstruct:greenheart_fence
+- tconstruct:skyroot_fence
+- tconstruct:bloodshroom_fence
+
+#forge:dusts/netherite
+- thermal:netherite_dust
+
+#forge:dusts/emerald
+- thermal:emerald_dust
+
+#forge:dyes/light_gray
+- minecraft:light_gray_dye
+
+#forge:storage_blocks
+- #forge:storage_blocks/coal
+- #forge:storage_blocks/diamond
+- #forge:storage_blocks/emerald
+- #forge:storage_blocks/gold
+- #forge:storage_blocks/iron
+- #forge:storage_blocks/lapis
+- #forge:storage_blocks/quartz
+- #forge:storage_blocks/redstone
+- #forge:storage_blocks/netherite
+- #forge:storage_blocks/apatite
+- #forge:storage_blocks/bamboo
+- #forge:storage_blocks/bronze
+- #forge:storage_blocks/charcoal
+- #forge:storage_blocks/cinnabar
+- #forge:storage_blocks/coal_coke
+- #forge:storage_blocks/constantan
+- #forge:storage_blocks/copper
+- #forge:storage_blocks/electrum
+- #forge:storage_blocks/enderium
+- #forge:storage_blocks/gunpowder
+- #forge:storage_blocks/invar
+- #forge:storage_blocks/lead
+- #forge:storage_blocks/lumium
+- #forge:storage_blocks/nickel
+- #forge:storage_blocks/niter
+- #forge:storage_blocks/ruby
+- #forge:storage_blocks/sapphire
+- #forge:storage_blocks/signalum
+- #forge:storage_blocks/silver
+- #forge:storage_blocks/sugar_cane
+- #forge:storage_blocks/sulfur
+- #forge:storage_blocks/tin
+- #forge:storage_blocks/copper
+- #forge:storage_blocks/cobalt
+- #forge:storage_blocks/slimesteel
+- #forge:storage_blocks/silicon_bronze
+- #forge:storage_blocks/rose_gold
+- #forge:storage_blocks/pig_iron
+- #forge:storage_blocks/queens_slime
+- #forge:storage_blocks/manyullyn
+- #forge:storage_blocks/hepatizon
+- #forge:storage_blocks/soulsteel
+- #forge:storage_blocks/knightslime
+
+#forge:coins/lead
+- thermal:lead_coin
+
+#forge:ingots/bronze
+- thermal:bronze_ingot
+
+#forge:glass_panes/orange
+- minecraft:orange_stained_glass_pane
+- tconstruct:orange_clear_stained_glass_pane
+
+#minecraft:beacon_payment_items
+- minecraft:netherite_ingot
+- minecraft:emerald
+- minecraft:diamond
+- minecraft:gold_ingot
+- minecraft:iron_ingot
+- #forge:ingots/cobalt
+- #forge:ingots/queens_slime
+- #forge:ingots/manyullyn
+- #forge:ingots/hepatizon
+
+#forge:ingots/copper
+- thermal:copper_ingot
+- tconstruct:copper_ingot
+
+#tconstruct:casts/single_use/plate
+- tconstruct:plate_sand_cast
+- tconstruct:plate_red_sand_cast
+
+#forge:seeds/eggplant
+
+#forge:ores/quartz
+- minecraft:nether_quartz_ore
+
+#forge:ores/cobalt
+- tconstruct:cobalt_ore
+
+#forge:nuggets/signalum
+- thermal:signalum_nugget
+
+#forge:ingots/brick
+- minecraft:brick
+
+#tconstruct:casts/multi_use/broad_axe_head
+- tconstruct:broad_axe_head_cast
+
+#forge:glass/blue
+- minecraft:blue_stained_glass
+- tconstruct:blue_clear_stained_glass
+
+#forge:plates/electrum
+- thermal:electrum_plate
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- tconstruct:greenheart_trapdoor
+- tconstruct:skyroot_trapdoor
+- tconstruct:bloodshroom_trapdoor
+
+#tconstruct:modifiable/harvest/primary
+- tconstruct:pickaxe
+- tconstruct:sledge_hammer
+- tconstruct:vein_hammer
+- tconstruct:mattock
+- tconstruct:excavator
+- tconstruct:hand_axe
+- tconstruct:broad_axe
+- tconstruct:kama
+- tconstruct:scythe
+
+#forge:storage_blocks/coal
+- minecraft:coal_block
+
+#forge:seeds/coffee
+
+#forge:glass/light_blue
+- minecraft:light_blue_stained_glass
+- tconstruct:light_blue_clear_stained_glass
+
+#forge:crops/amaranth
+
+#forge:armor/lead
+
+#forge:nuggets/slimesteel
+- tconstruct:slimesteel_nugget
+
+#forge:coins/electrum
+- thermal:electrum_coin
+
+#forge:storage_blocks/redstone
+- minecraft:redstone_block
+
+#forge:gems/sapphire
+- thermal:sapphire
+
+#minecraft:stairs
+- #minecraft:wooden_stairs
+- minecraft:cobblestone_stairs
+- minecraft:sandstone_stairs
+- minecraft:nether_brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:brick_stairs
+- minecraft:purpur_stairs
+- minecraft:quartz_stairs
+- minecraft:red_sandstone_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:blackstone_stairs
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:polished_blackstone_stairs
+- mysticalagriculture:soulstone_stairs
+- mysticalagriculture:soulstone_cobble_stairs
+- mysticalagriculture:soulstone_bricks_stairs
+
+#forge:nuggets/silicon_bronze
+- tconstruct:tinkers_bronze_nugget
+
+#tconstruct:casts/multi_use/gem
+- tconstruct:gem_cast
+
+#minecraft:logs
+- #minecraft:logs_that_burn
+- #minecraft:crimson_stems
+- #minecraft:warped_stems
+- #tconstruct:slimy_logs
+
+#forge:ores/cinnabar
+- thermal:cinnabar_ore
+
+#forge:tools/copper
+
+#forge:slag
+- thermal:slag
+
+#forge:plates/enderium
+- thermal:enderium_plate
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:tipped_arrow
+- minecraft:spectral_arrow
+
+#tconstruct:casts/multi_use/ingot
+- tconstruct:ingot_cast
+
+#forge:seeds/rice
+
+#forge:foods/fish/cooked
+- minecraft:cooked_cod
+- minecraft:cooked_salmon
+
+#forge:dusts/sapphire
+- thermal:sapphire_dust
+
+#minecraft:wooden_doors
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+- tconstruct:greenheart_door
+- tconstruct:skyroot_door
+- tconstruct:bloodshroom_door
+
+#forge:nuggets/invar
+- thermal:invar_nugget
+
+#tconstruct:duct_containers
+- minecraft:bucket
+- tconstruct:copper_can
+- tconstruct:seared_lantern
+- tconstruct:scorched_lantern
+
+#tconstruct:modifiable/interactable
+- #tconstruct:modifiable/held
+- #tconstruct:modifiable/armor/chestplate
+
+#forge:tools/diamond
+- minecraft:diamond_axe
+- minecraft:diamond_hoe
+- minecraft:diamond_pickaxe
+- minecraft:diamond_shovel
+- minecraft:diamond_sword
+
+#forge:gears/bronze
+- thermal:bronze_gear
+
+#tconstruct:planklike
+- #minecraft:planks
+- tconstruct:lavawood
+- tconstruct:blazewood
+- tconstruct:nahuatl
+
+#forge:ingots/constantan
+- thermal:constantan_ingot
+
+#forge:glass/purple
+- minecraft:purple_stained_glass
+- tconstruct:purple_clear_stained_glass
+
+#forge:dyes/magenta
+- minecraft:magenta_dye
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+
+#minecraft:stone_tool_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+
+#forge:dyes/cyan
+- minecraft:cyan_dye
+
+#forge:nuggets/queens_slime
+- tconstruct:queens_slime_nugget
+
+#forge:nuggets/netherite
+- tconstruct:netherite_nugget
+
+#tconstruct:modifiable/armor/helmets
+- tconstruct:travelers_helmet
+- tconstruct:plate_helmet
+- tconstruct:slime_helmet
+
+#forge:coins/copper
+- thermal:copper_coin
+
+#forge:storage_blocks/ruby
+- thermal:ruby_block
+
+#tconstruct:slime_block
+- minecraft:slime_block
+- tconstruct:sky_slime
+- tconstruct:ichor_slime
+- tconstruct:ender_slime
+- tconstruct:blood_slime
+
+#forge:seeds/wheat
+- minecraft:wheat_seeds
+
+#forge:ingots/iron
+- minecraft:iron_ingot
+
+#forge:crops/rice
+
+#tconstruct:scorched_tanks
+- tconstruct:scorched_fuel_tank
+- tconstruct:scorched_fuel_gauge
+- tconstruct:scorched_ingot_tank
+- tconstruct:scorched_ingot_gauge
+
+#forge:dyes/purple
+- minecraft:purple_dye
+
+#forge:seeds/barley
+
+#minecraft:anvil
+- minecraft:anvil
+- minecraft:chipped_anvil
+- minecraft:damaged_anvil
+
+#forge:storage_blocks/enderium
+- thermal:enderium_block
+
+#forge:sand
+- #forge:sand/colorless
+- #forge:sand/red
+
+#forge:tools/constantan
+
+#thermal:rockwool
+- thermal:white_rockwool
+- thermal:orange_rockwool
+- thermal:magenta_rockwool
+- thermal:light_blue_rockwool
+- thermal:yellow_rockwool
+- thermal:lime_rockwool
+- thermal:pink_rockwool
+- thermal:gray_rockwool
+- thermal:light_gray_rockwool
+- thermal:cyan_rockwool
+- thermal:purple_rockwool
+- thermal:blue_rockwool
+- thermal:brown_rockwool
+- thermal:green_rockwool
+- thermal:red_rockwool
+- thermal:black_rockwool
+
+#forge:nuggets/pig_iron
+- tconstruct:pig_iron_nugget
+
+#forge:storage_blocks/tar
+- thermal:tar_block
+
+#forge:dyes/yellow
+- minecraft:yellow_dye
+
+#forge:gems/apatite
+- thermal:apatite
+
+#forge:ingots/queens_slime
+- tconstruct:queens_slime_ingot
+
+#forge:seeds/bell_pepper
+
+#tconstruct:casts/multi_use/broad_blade
+- tconstruct:broad_blade_cast
+
+#forge:gems/prismarine
+- minecraft:prismarine_crystals
+
+#forge:dusts/ruby
+- thermal:ruby_dust
+
+#forge:storage_blocks/silver
+- thermal:silver_block
+
+#forge:ores/gold
+- #minecraft:gold_ores
+
+#forge:pumpkins/carved
+- minecraft:carved_pumpkin
+
+#forge:tar
+- thermal:tar
+
+#forge:storage_blocks/hepatizon
+- tconstruct:hepatizon_block
+
+#minecraft:stone_crafting_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+
+#minecraft:piglin_repellents
+- minecraft:soul_torch
+- minecraft:soul_lantern
+- minecraft:soul_campfire
+- tconstruct:zombified_piglin_head
+
+#forge:nuggets/knightslime
+- tconstruct:knightslime_nugget
+
+#forge:glass/black
+- minecraft:black_stained_glass
+- tconstruct:black_clear_stained_glass
+
+#forge:gears/lead
+- thermal:lead_gear
+
+#tconstruct:casts/multi_use/pickaxe_head
+- tconstruct:pickaxe_head_cast
+
+#forge:fences/nether_brick
+- minecraft:nether_brick_fence
+
+#forge:rods
+- #forge:rods/blaze
+- #forge:rods/wooden
+
+#forge:glass/lime
+- minecraft:lime_stained_glass
+- tconstruct:lime_clear_stained_glass
+
+#tconstruct:casts/multi_use/gear
+- tconstruct:gear_cast
+
+#forge:chests/wooden
+- minecraft:chest
+- minecraft:trapped_chest
+
+#forge:ores/iron
+- minecraft:iron_ore
+
+#tconstruct:modifiable/aoe
+- tconstruct:pickaxe
+- tconstruct:sledge_hammer
+- tconstruct:vein_hammer
+- tconstruct:mattock
+- tconstruct:excavator
+- tconstruct:hand_axe
+- tconstruct:broad_axe
+- tconstruct:kama
+- tconstruct:scythe
+- tconstruct:sword
+- tconstruct:cleaver
+- tconstruct:flint_and_bronze
+- #tconstruct:modifiable/armor/boots
+
+#forge:dusts/copper
+- thermal:copper_dust
+
+#forge:storage_blocks/sulfur
+- thermal:sulfur_block
+
+#forge:gems/emerald
+- minecraft:emerald
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- tconstruct:greenheart_planks_stairs
+- tconstruct:skyroot_planks_stairs
+- tconstruct:bloodshroom_planks_stairs
+
+#tconstruct:casts/multi_use/small_axe_head
+- tconstruct:small_axe_head_cast
+
+#thermal:glass/hardened
+- thermal:obsidian_glass
+- thermal:signalum_glass
+- thermal:lumium_glass
+- thermal:enderium_glass
+
+#minecraft:carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+
+#minecraft:wooden_buttons
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
+- tconstruct:greenheart_button
+- tconstruct:skyroot_button
+- tconstruct:bloodshroom_button
+
+#forge:tools/nickel
+
+#tconstruct:tanks
+- #tconstruct:seared_tanks
+- #tconstruct:scorched_tanks
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+
+#forge:storage_blocks/quartz
+- minecraft:quartz_block
+
+#forge:gears/tin
+- thermal:tin_gear
+
+#forge:nuggets/nickel
+- thermal:nickel_nugget
+
+#forge:glass/orange
+- minecraft:orange_stained_glass
+- tconstruct:orange_clear_stained_glass
+
+#thermal:crafting/securable
+- thermal:satchel
+
+#forge:coins/nickel
+- thermal:nickel_coin
+
+#forge:crops/coffee
+
+#forge:dyes/green
+- minecraft:green_dye
+
+#forge:plates/gold
+- thermal:gold_plate
+
+#forge:crops/onion
+
+#minecraft:slabs
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
+- mysticalagriculture:soulstone_slab
+- mysticalagriculture:soulstone_cobble_slab
+- mysticalagriculture:soulstone_bricks_slab
+- mysticalagriculture:soulstone_smooth_slab
+
+#forge:seeds/hops
+
+#tconstruct:slimy_grass_seeds
+- tconstruct:earth_slime_grass_seeds
+- tconstruct:sky_slime_grass_seeds
+- tconstruct:ichor_slime_grass_seeds
+- tconstruct:ender_slime_grass_seeds
+- tconstruct:blood_slime_grass_seeds
+
+#forge:ores/emerald
+- minecraft:emerald_ore
+
+#forge:storage_blocks/bitumen
+- thermal:bitumen_block
+
+#forge:ingots/cobalt
+- tconstruct:cobalt_ingot
+
+#mysticalagriculture:material/marble
+- #chisel:marble?
+- astralsorcery:marble_raw?
+- quark:marble?
+
+#tconstruct:casts/single_use/pickaxe_head
+- tconstruct:pickaxe_head_sand_cast
+- tconstruct:pickaxe_head_red_sand_cast
+
+#forge:dyes/lime
+- minecraft:lime_dye
+
+#tconstruct:guides
+- tconstruct:materials_and_you
+- tconstruct:tinkers_gadgetry
+- tconstruct:puny_smelting
+- tconstruct:mighty_smelting
+- tconstruct:fantastic_foundry
+- tconstruct:encyclopedia
+
+#forge:dusts/diamond
+- thermal:diamond_dust
+
+#tconstruct:congealed_slime
+- tconstruct:earth_congealed_slime
+- tconstruct:sky_congealed_slime
+- tconstruct:ichor_congealed_slime
+- tconstruct:ender_congealed_slime
+- tconstruct:blood_congealed_slime
+
+#tconstruct:modifiable/melee/primary
+- tconstruct:sledge_hammer
+- tconstruct:hand_axe
+- tconstruct:broad_axe
+- tconstruct:scythe
+- tconstruct:dagger
+- tconstruct:sword
+- tconstruct:cleaver
+
+#forge:ores/apatite
+- thermal:apatite_ore
+
+#forge:gears/sapphire
+- thermal:sapphire_gear
+
+#minecraft:buttons
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- minecraft:polished_blackstone_button
+
+#forge:seeds/sadiroot
+
+#forge:plates/iron
+- thermal:iron_plate
+
+#forge:nuggets/lumium
+- thermal:lumium_nugget
+
+#tconstruct:structure_debug/smeltery
+- #tconstruct:structure_debug/general
+- #tconstruct:smeltery
+
+#minecraft:rails
+- minecraft:rail
+- minecraft:powered_rail
+- minecraft:detector_rail
+- minecraft:activator_rail
+
+#forge:nuggets/silver
+- thermal:silver_nugget
+
+#forge:storage_blocks/niter
+- thermal:niter_block
+
+#forge:books
+- #forge:books/guide
+
+#tconstruct:casts/single_use/large_plate
+- tconstruct:large_plate_sand_cast
+- tconstruct:large_plate_red_sand_cast
+
+#tconstruct:casts/single_use/nugget
+- tconstruct:nugget_sand_cast
+- tconstruct:nugget_red_sand_cast
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- tconstruct:greenheart_pressure_plate
+- tconstruct:skyroot_pressure_plate
+- tconstruct:bloodshroom_pressure_plate
+
+#minecraft:tall_flowers
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:peony
+- minecraft:rose_bush
+
+#forge:plates/tin
+- thermal:tin_plate
+
+#forge:bookshelves
+- minecraft:bookshelf
+
+#minecraft:gold_ores
+- minecraft:gold_ore
+- minecraft:nether_gold_ore
+
+#forge:dyes
+- #forge:dyes/white
+- #forge:dyes/orange
+- #forge:dyes/magenta
+- #forge:dyes/light_blue
+- #forge:dyes/yellow
+- #forge:dyes/lime
+- #forge:dyes/pink
+- #forge:dyes/gray
+- #forge:dyes/light_gray
+- #forge:dyes/cyan
+- #forge:dyes/purple
+- #forge:dyes/blue
+- #forge:dyes/brown
+- #forge:dyes/green
+- #forge:dyes/red
+- #forge:dyes/black
+
+#forge:glass_panes/pink
+- minecraft:pink_stained_glass_pane
+- tconstruct:pink_clear_stained_glass_pane
+
+#tconstruct:smeltery
+- #tconstruct:seared_blocks
+- #tconstruct:seared_tanks
+- tconstruct:smeltery_controller
+- tconstruct:seared_drain
+- tconstruct:seared_chute
+- tconstruct:seared_duct
+- tconstruct:seared_glass
+- tconstruct:seared_ladder
+
+#tconstruct:casts/multi_use/blank
+- tconstruct:blank_cast
+
+#tconstruct:casts/single_use/small_blade
+- tconstruct:small_blade_sand_cast
+- tconstruct:small_blade_red_sand_cast
+
+#forge:netherrack
+- minecraft:netherrack
+
+#forge:crops/sadiroot
+
+#forge:gears/constantan
+- thermal:constantan_gear
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+- tconstruct:soul_glass
+
+#forge:gears/electrum
+- thermal:electrum_gear
+
+#forge:crops/flax
+
+#tconstruct:casts/single_use/repair_kit
+- tconstruct:repair_kit_sand_cast
+- tconstruct:repair_kit_red_sand_cast
+
+#forge:eggs
+- minecraft:egg
+
+#tconstruct:casts/multi_use/tough_handle
+- tconstruct:tough_handle_cast
+
+#mantle:offhand_cooldown
+
+#tconstruct:casts/multi_use/small_blade
+- tconstruct:small_blade_cast
+
+#forge:dyes/red
+- minecraft:red_dye
+
+#forge:crops/eggplant
+
+#forge:gravel
+- minecraft:gravel
+
+#forge:glass_panes/cyan
+- minecraft:cyan_stained_glass_pane
+- tconstruct:cyan_clear_stained_glass_pane
+
+#forge:armor/gold
+- minecraft:golden_boots
+- minecraft:golden_chestplate
+- minecraft:golden_helmet
+- minecraft:golden_leggings
+
+#tconstruct:modifiable/two_handed
+- tconstruct:sledge_hammer
+- tconstruct:vein_hammer
+- tconstruct:excavator
+- tconstruct:broad_axe
+- tconstruct:scythe
+- tconstruct:cleaver
+
+#forge:plates/signalum
+- thermal:signalum_plate
+
+#forge:dyes/black
+- minecraft:black_dye
+
+#forge:coins/signalum
+- thermal:signalum_coin
+
+#forge:dusts/glowstone
+- minecraft:glowstone_dust
+
+#tconstruct:casts/multi_use
+- #tconstruct:casts/multi_use/blank
+- #tconstruct:casts/multi_use/ingot
+- #tconstruct:casts/multi_use/nugget
+- #tconstruct:casts/multi_use/gem
+- #tconstruct:casts/multi_use/rod
+- #tconstruct:casts/multi_use/repair_kit
+- #tconstruct:casts/multi_use/plate
+- #tconstruct:casts/multi_use/gear
+- #tconstruct:casts/multi_use/coin
+- #tconstruct:casts/multi_use/wire
+- #tconstruct:casts/multi_use/pickaxe_head
+- #tconstruct:casts/multi_use/small_axe_head
+- #tconstruct:casts/multi_use/small_blade
+- #tconstruct:casts/multi_use/hammer_head
+- #tconstruct:casts/multi_use/broad_axe_head
+- #tconstruct:casts/multi_use/broad_blade
+- #tconstruct:casts/multi_use/tool_binding
+- #tconstruct:casts/multi_use/large_plate
+- #tconstruct:casts/multi_use/tool_handle
+- #tconstruct:casts/multi_use/tough_handle
+
+#minecraft:wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+
+#forge:glass/colorless
+- minecraft:glass
+- tconstruct:clear_glass
+
+#forge:ingots/slimesteel
+- tconstruct:slimesteel_ingot
+
+#forge:rubberwood_logs
+
+#forge:glass_panes/light_blue
+- minecraft:light_blue_stained_glass_pane
+- tconstruct:light_blue_clear_stained_glass_pane
+
+#forge:dusts/cinnabar
+- thermal:cinnabar_dust
+
+#forge:nuggets/constantan
+- thermal:constantan_nugget
+
+#forge:ores/netherite_scrap
+- minecraft:ancient_debris
+
+#forge:nuggets/copper
+- thermal:copper_nugget
+- tconstruct:copper_nugget
+
+#forge:seeds/green_bean
+
+#forge:ingots/silicon_bronze
+- tconstruct:tinkers_bronze_ingot
+
+#forge:stained_glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+- tconstruct:white_clear_stained_glass
+- tconstruct:orange_clear_stained_glass
+- tconstruct:magenta_clear_stained_glass
+- tconstruct:light_blue_clear_stained_glass
+- tconstruct:yellow_clear_stained_glass
+- tconstruct:lime_clear_stained_glass
+- tconstruct:pink_clear_stained_glass
+- tconstruct:gray_clear_stained_glass
+- tconstruct:light_gray_clear_stained_glass
+- tconstruct:cyan_clear_stained_glass
+- tconstruct:purple_clear_stained_glass
+- tconstruct:blue_clear_stained_glass
+- tconstruct:brown_clear_stained_glass
+- tconstruct:green_clear_stained_glass
+- tconstruct:red_clear_stained_glass
+- tconstruct:black_clear_stained_glass
+
+#forge:crops/carrot
+- minecraft:carrot
+
+#forge:plates/invar
+- thermal:invar_plate
+
+#forge:nuggets/gold
+- minecraft:gold_nugget
+
+#forge:tools/invar
+
+#forge:tools/netherite
+- minecraft:netherite_axe
+- minecraft:netherite_hoe
+- minecraft:netherite_pickaxe
+- minecraft:netherite_shovel
+- minecraft:netherite_sword
+
+#tconstruct:casts/single_use/broad_axe_head
+- tconstruct:broad_axe_head_sand_cast
+- tconstruct:broad_axe_head_red_sand_cast
+
+#minecraft:warped_stems
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+
+#forge:nether_stars
+- minecraft:nether_star
+
+#forge:dusts/ender_pearl
+- thermal:ender_pearl_dust
+
+#tconstruct:modifiable/harvest
+- tconstruct:dagger
+- tconstruct:sword
+- tconstruct:cleaver
+- #tconstruct:modifiable/harvest/primary
+- #tconstruct:modifiable/harvest/stone
+
+#forge:ingots/tin
+- thermal:tin_ingot
+
+#forge:storage_blocks/coal_coke
+- thermal:coal_coke_block
+
+#forge:dyes/blue
+- minecraft:blue_dye
+
+#forge:storage_blocks/iron
+- minecraft:iron_block
+
+#forge:slimeball/earth
+- minecraft:slime_ball
+
+#forge:glass_panes/brown
+- minecraft:brown_stained_glass_pane
+- tconstruct:brown_clear_stained_glass_pane
+
+#forge:heads
+- minecraft:creeper_head
+- minecraft:dragon_head
+- minecraft:player_head
+- minecraft:skeleton_skull
+- minecraft:wither_skeleton_skull
+- minecraft:zombie_head
+- tconstruct:blaze_head
+- tconstruct:enderman_head
+- tconstruct:stray_head
+- tconstruct:husk_head
+- tconstruct:drowned_head
+- tconstruct:spider_head
+- tconstruct:cave_spider_head
+- tconstruct:piglin_head
+- tconstruct:piglin_brute_head
+- tconstruct:zombified_piglin_head
+
+#forge:ores/sapphire
+- thermal:sapphire_ore
+
+#tconstruct:inventory_blacklist
+- minecraft:shulker_box
+- minecraft:white_shulker_box
+- minecraft:orange_shulker_box
+- minecraft:magenta_shulker_box
+- minecraft:light_blue_shulker_box
+- minecraft:yellow_shulker_box
+- minecraft:lime_shulker_box
+- minecraft:pink_shulker_box
+- minecraft:gray_shulker_box
+- minecraft:light_gray_shulker_box
+- minecraft:cyan_shulker_box
+- minecraft:purple_shulker_box
+- minecraft:blue_shulker_box
+- minecraft:brown_shulker_box
+- minecraft:green_shulker_box
+- minecraft:red_shulker_box
+- minecraft:black_shulker_box
+
+#tconstruct:casts/multi_use/large_plate
+- tconstruct:large_plate_cast
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log
+- minecraft:dark_oak_wood
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_dark_oak_wood
+
+#forge:bones
+- minecraft:bone
+
+#forge:gems/cinnabar
+- thermal:cinnabar
+
+#forge:crops/corn
+
+#forge:glass_panes
+- #forge:glass_panes/colorless
+- #forge:stained_glass_panes
+
+#forge:storage_blocks/lumium
+- thermal:lumium_block
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- minecraft:crimson_button
+- minecraft:warped_button
+- minecraft:crimson_door
+- minecraft:warped_door
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- tconstruct:bloodshroom_planks
+- tconstruct:bloodshroom_planks_slab
+- tconstruct:bloodshroom_planks_stairs
+- tconstruct:bloodshroom_fence
+- tconstruct:bloodshroom_fence_gate
+- tconstruct:bloodshroom_door
+- tconstruct:bloodshroom_trapdoor
+- tconstruct:bloodshroom_pressure_plate
+- tconstruct:bloodshroom_button
+- #tconstruct:bloodshroom_logs
+
+#tconstruct:chrysophilite_ores
+- #forge:ores/gold
+- minecraft:gilded_blackstone
+
+#forge:dusts/iron
+- thermal:iron_dust
+
+#forge:armor/bronze
+
+#forge:nuggets/enderium
+- thermal:enderium_nugget
+
+#forge:mushrooms
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+
+#tconstruct:casts
+- #tconstruct:casts/gold
+- #tconstruct:casts/sand
+- #tconstruct:casts/red_sand
+
+#tconstruct:seared_blocks
+- tconstruct:seared_stone
+- tconstruct:seared_cracked_bricks
+- tconstruct:seared_cobble
+- tconstruct:seared_paver
+- #tconstruct:seared_bricks
+
+#forge:gears/iron
+- thermal:iron_gear
+
+#forge:gears/emerald
+- thermal:emerald_gear
+
+#forge:storage_blocks/bronze
+- thermal:bronze_block
+
+#forge:storage_blocks/soulsteel
+- tconstruct:soulsteel_block
+
+#forge:ingots/signalum
+- thermal:signalum_ingot
+
+#forge:dusts/signalum
+- thermal:signalum_dust
+
+#forge:ingots/netherite
+- minecraft:netherite_ingot
+
+#forge:armor/constantan
+
+#minecraft:fences
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
+
+#minecraft:saplings
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+- #tconstruct:slimy_saplings
+
+#forge:storage_blocks/tin
+- thermal:tin_block
+
+#forge:foods/meat/raw
+- minecraft:porkchop
+- minecraft:beef
+- minecraft:rabbit
+- minecraft:chicken
+- minecraft:mutton
+
+#forge:ores/copper
+- thermal:copper_ore
+- tconstruct:copper_ore
+
+#forge:seeds/beetroot
+- minecraft:beetroot_seeds
+
+#forge:coins/lumium
+- thermal:lumium_coin
+
+#mysticalagriculture:infusion_crystals
+- mysticalagriculture:infusion_crystal
+- mysticalagriculture:master_infusion_crystal
+
+#forge:gears/quartz
+- thermal:quartz_gear
+
+#minecraft:banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+
+#forge:storage_blocks/electrum
+- thermal:electrum_block
+
+#minecraft:wooden_fences
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- tconstruct:greenheart_fence
+- tconstruct:skyroot_fence
+- tconstruct:bloodshroom_fence
+
+#forge:storage_blocks/knightslime
+- tconstruct:knightslime_block
+
+#tconstruct:casts/multi_use/wire
+- tconstruct:wire_cast
+
+#tconstruct:anvil_metal
+- #forge:storage_blocks/slimesteel
+- #forge:storage_blocks/silicon_bronze
+- #forge:storage_blocks/rose_gold
+- #forge:storage_blocks/pig_iron
+- #forge:storage_blocks/queens_slime
+- #forge:storage_blocks/manyullyn
+- #forge:storage_blocks/hepatizon
+- #forge:storage_blocks/netherite
+- #forge:storage_blocks/bronze?
+- #forge:storage_blocks/brass?
+- #forge:storage_blocks/electrum?
+- #forge:storage_blocks/invar?
+- #forge:storage_blocks/constantan?
+- #forge:storage_blocks/pewter?
+- #forge:storage_blocks/steel?
+- #forge:storage_blocks/enderium?
+- #forge:storage_blocks/lumium?
+- #forge:storage_blocks/signalum?
+- #forge:storage_blocks/refined_glowstone?
+- #forge:storage_blocks/refined_obsidian?
+
+#forge:gears/gold
+- thermal:gold_gear
+
+#forge:obsidian
+- minecraft:obsidian
+
+#tconstruct:modifiable/melee_or_unarmed
+- #tconstruct:modifiable/melee
+- #tconstruct:modifiable/armor/chestplate
+
+#tconstruct:casts/single_use/coin
+- tconstruct:coin_sand_cast
+- tconstruct:coin_red_sand_cast
+
+#forge:coins/netherite
+- thermal:netherite_coin
+
+#forge:tools/lead
+
+#forge:gems/niter
+- thermal:niter
+
+#tconstruct:casts/single_use/tool_handle
+- tconstruct:tool_handle_sand_cast
+- tconstruct:tool_handle_red_sand_cast
+
+#forge:glass/magenta
+- minecraft:magenta_stained_glass
+- tconstruct:magenta_clear_stained_glass
+
+#forge:ores/coal
+- minecraft:coal_ore
+
+#forge:storage_blocks/constantan
+- thermal:constantan_block
+
+#forge:feathers
+- minecraft:feather
+
+#tconstruct:seared_tanks
+- tconstruct:seared_fuel_tank
+- tconstruct:seared_fuel_gauge
+- tconstruct:seared_ingot_tank
+- tconstruct:seared_ingot_gauge
+
+#forge:dusts/silver
+- thermal:silver_dust
+
+#forge:plates/lead
+- thermal:lead_plate
+
+#forge:string
+- minecraft:string
+
+#forge:books/guide
+- #tconstruct:guides
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
+
+#forge:ingots/gold
+- minecraft:gold_ingot
+
+#forge:glass/cyan
+- minecraft:cyan_stained_glass
+- tconstruct:cyan_clear_stained_glass
+
+#forge:leather
+- minecraft:leather
+
+#forge:glass
+- #forge:glass/colorless
+- #forge:stained_glass
+
+#forge:storage_blocks/gunpowder
+- thermal:gunpowder_block
+
+#tconstruct:modifiable/armor/leggings
+- tconstruct:travelers_leggings
+- tconstruct:plate_leggings
+- tconstruct:slime_leggings
+
+#minecraft:boats
+- minecraft:oak_boat
+- minecraft:spruce_boat
+- minecraft:birch_boat
+- minecraft:jungle_boat
+- minecraft:acacia_boat
+- minecraft:dark_oak_boat
+
+#forge:nuggets/iron
+- minecraft:iron_nugget
+
+#forge:dusts/enderium
+- thermal:enderium_dust
+
+#tconstruct:modifiable/armor
+- #tconstruct:modifiable/armor/boots
+- #tconstruct:modifiable/armor/leggings
+- #tconstruct:modifiable/armor/chestplate
+- #tconstruct:modifiable/armor/helmets
+
+#tconstruct:skyroot_logs
+- tconstruct:skyroot_log
+- tconstruct:stripped_skyroot_log
+- tconstruct:skyroot_wood
+- tconstruct:stripped_skyroot_wood
+
+#minecraft:leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- #tconstruct:slimy_leaves
+
+#forge:storage_blocks/rose_gold
+- tconstruct:rose_gold_block
+
+#forge:crops/potato
+- minecraft:potato
+
+#forge:crops/peanut
+
+#tconstruct:casts/gold
+- tconstruct:blank_cast
+- tconstruct:ingot_cast
+- tconstruct:nugget_cast
+- tconstruct:gem_cast
+- tconstruct:rod_cast
+- tconstruct:repair_kit_cast
+- tconstruct:plate_cast
+- tconstruct:gear_cast
+- tconstruct:coin_cast
+- tconstruct:wire_cast
+- tconstruct:pickaxe_head_cast
+- tconstruct:small_axe_head_cast
+- tconstruct:small_blade_cast
+- tconstruct:hammer_head_cast
+- tconstruct:broad_axe_head_cast
+- tconstruct:broad_blade_cast
+- tconstruct:tool_binding_cast
+- tconstruct:large_plate_cast
+- tconstruct:tool_handle_cast
+- tconstruct:tough_handle_cast
+
+#forge:glass_panes/gray
+- minecraft:gray_stained_glass_pane
+- tconstruct:gray_clear_stained_glass_pane
+
+#forge:gears/netherite
+- thermal:netherite_gear
+
+#forge:ores/ruby
+- thermal:ruby_ore
+
+#minecraft:acacia_logs
+- minecraft:acacia_log
+- minecraft:acacia_wood
+- minecraft:stripped_acacia_log
+- minecraft:stripped_acacia_wood
+
+#forge:dusts/apatite
+- thermal:apatite_dust
+
+#minecraft:piglin_loved
+- #minecraft:gold_ores
+- minecraft:gold_block
+- minecraft:gilded_blackstone
+- minecraft:light_weighted_pressure_plate
+- minecraft:gold_ingot
+- minecraft:bell
+- minecraft:clock
+- minecraft:golden_carrot
+- minecraft:glistering_melon_slice
+- minecraft:golden_apple
+- minecraft:enchanted_golden_apple
+- minecraft:golden_helmet
+- minecraft:golden_chestplate
+- minecraft:golden_leggings
+- minecraft:golden_boots
+- minecraft:golden_horse_armor
+- minecraft:golden_sword
+- minecraft:golden_pickaxe
+- minecraft:golden_shovel
+- minecraft:golden_axe
+- minecraft:golden_hoe
+- tconstruct:gold_reinforcement
+- tconstruct:gold_item_frame
+- tconstruct:reversed_gold_item_frame
+- tconstruct:molten_gold_bucket
+- #tconstruct:casts/gold
+
+#forge:storage_blocks/silicon_bronze
+- tconstruct:tinkers_bronze_block
+
+#forge:tools/wrench
+- thermal:wrench
+
+#forge:stained_glass_panes
+- minecraft:white_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:black_stained_glass_pane
+- tconstruct:white_clear_stained_glass_pane
+- tconstruct:orange_clear_stained_glass_pane
+- tconstruct:magenta_clear_stained_glass_pane
+- tconstruct:light_blue_clear_stained_glass_pane
+- tconstruct:yellow_clear_stained_glass_pane
+- tconstruct:lime_clear_stained_glass_pane
+- tconstruct:pink_clear_stained_glass_pane
+- tconstruct:gray_clear_stained_glass_pane
+- tconstruct:light_gray_clear_stained_glass_pane
+- tconstruct:cyan_clear_stained_glass_pane
+- tconstruct:purple_clear_stained_glass_pane
+- tconstruct:blue_clear_stained_glass_pane
+- tconstruct:brown_clear_stained_glass_pane
+- tconstruct:green_clear_stained_glass_pane
+- tconstruct:red_clear_stained_glass_pane
+- tconstruct:black_clear_stained_glass_pane
+
+#forge:nuggets/tin
+- thermal:tin_nugget
+
+#forge:storage_blocks/queens_slime
+- tconstruct:queens_slime_block
+
+#forge:sand/red
+- minecraft:red_sand
+
+#forge:dusts/nickel
+- thermal:nickel_dust
+
+#forge:workbenches
+- minecraft:crafting_table
+- tconstruct:crafting_station
+- #forge:workbench?
+
+#tconstruct:modifiable/armor/boots
+- tconstruct:travelers_boots
+- tconstruct:plate_boots
+- tconstruct:slime_boots
+
+#forge:glass/brown
+- minecraft:brown_stained_glass
+- tconstruct:brown_clear_stained_glass
+
+#forge:dusts/gold
+- thermal:gold_dust
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+- #tconstruct:greenheart_logs
+- #tconstruct:skyroot_logs
+
+#forge:ingots/netherite_scrap
+- minecraft:netherite_scrap
+
+#tconstruct:casts/single_use/tool_binding
+- tconstruct:tool_binding_sand_cast
+- tconstruct:tool_binding_red_sand_cast
+
+#forge:glass/gray
+- minecraft:gray_stained_glass
+- tconstruct:gray_clear_stained_glass
+
+#forge:glass/light_gray
+- minecraft:light_gray_stained_glass
+- tconstruct:light_gray_clear_stained_glass
+
+#forge:plates/lumium
+- thermal:lumium_plate
+
+#forge:dyes/light_blue
+- minecraft:light_blue_dye
+
+#tconstruct:casts/single_use/rod
+- tconstruct:rod_sand_cast
+- tconstruct:rod_red_sand_cast
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- tconstruct:greenheart_planks_slab
+- tconstruct:skyroot_planks_slab
+- tconstruct:bloodshroom_planks_slab
+
+#tconstruct:modifiable/multipart
+- tconstruct:pickaxe
+- tconstruct:sledge_hammer
+- tconstruct:vein_hammer
+- tconstruct:mattock
+- tconstruct:excavator
+- tconstruct:hand_axe
+- tconstruct:broad_axe
+- tconstruct:kama
+- tconstruct:scythe
+- tconstruct:dagger
+- tconstruct:sword
+- tconstruct:cleaver
+- tconstruct:slime_helmet
+
+#forge:dyes/white
+- minecraft:white_dye
+
+#tconstruct:casts/multi_use/hammer_head
+- tconstruct:hammer_head_cast
+
+#forge:ingots/rose_gold
+- tconstruct:rose_gold_ingot
+
+#tconstruct:casts/multi_use/tool_handle
+- tconstruct:tool_handle_cast
+
+#minecraft:small_flowers
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
+
+#forge:coins/enderium
+- thermal:enderium_coin
+
+#forge:bitumen
+- thermal:bitumen
+
+#forge:seeds/pumpkin
+- minecraft:pumpkin_seeds
+
+#forge:glass_panes/black
+- minecraft:black_stained_glass_pane
+- tconstruct:black_clear_stained_glass_pane
+
+#forge:gears/nickel
+- thermal:nickel_gear
+
+#forge:dusts/redstone
+- minecraft:redstone
+
+#forge:dyes/pink
+- minecraft:pink_dye
+
+#forge:armor/tin
+
+#forge:gems/quartz
+- minecraft:quartz
+
+#forge:gears/lapis
+- thermal:lapis_gear
+
+#forge:crops/beetroot
+- minecraft:beetroot
+
+#forge:glass_panes/blue
+- minecraft:blue_stained_glass_pane
+- tconstruct:blue_clear_stained_glass_pane
+
+#forge:seeds/melon
+- minecraft:melon_seeds
+
+#forge:ingots/electrum
+- thermal:electrum_ingot
+
+#forge:coins/bronze
+- thermal:bronze_coin
+
+#tconstruct:bloodshroom_logs
+- tconstruct:bloodshroom_log
+- tconstruct:stripped_bloodshroom_log
+- tconstruct:bloodshroom_wood
+- tconstruct:stripped_bloodshroom_wood
+
+#forge:tools/bronze
+
+#forge:crops/wheat
+- minecraft:wheat
+
+#forge:crops/tea
+
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13
+- minecraft:music_disc_cat
+- minecraft:music_disc_blocks
+- minecraft:music_disc_chirp
+- minecraft:music_disc_far
+- minecraft:music_disc_mall
+- minecraft:music_disc_mellohi
+- minecraft:music_disc_stal
+- minecraft:music_disc_strad
+- minecraft:music_disc_ward
+- minecraft:music_disc_11
+- minecraft:music_disc_wait
+
+#tconstruct:tables
+- tconstruct:crafting_station
+- tconstruct:part_builder
+- tconstruct:tinker_station
+
+#forge:armor/electrum
+
+#tconstruct:slimy_saplings
+- tconstruct:earth_slime_sapling
+- tconstruct:sky_slime_sapling
+- tconstruct:ender_slime_sapling
+
+#forge:gears/copper
+- thermal:copper_gear
+
+#forge:gears/signalum
+- thermal:signalum_gear
+
+#forge:stone
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- minecraft:infested_stone
+- minecraft:stone
+- minecraft:polished_andesite
+- minecraft:polished_diorite
+- minecraft:polished_granite
+
+#tconstruct:casts/sand
+- tconstruct:blank_sand_cast
+- tconstruct:ingot_sand_cast
+- tconstruct:nugget_sand_cast
+- tconstruct:gem_sand_cast
+- tconstruct:rod_sand_cast
+- tconstruct:repair_kit_sand_cast
+- tconstruct:plate_sand_cast
+- tconstruct:gear_sand_cast
+- tconstruct:coin_sand_cast
+- tconstruct:wire_sand_cast
+- tconstruct:pickaxe_head_sand_cast
+- tconstruct:small_axe_head_sand_cast
+- tconstruct:small_blade_sand_cast
+- tconstruct:hammer_head_sand_cast
+- tconstruct:broad_axe_head_sand_cast
+- tconstruct:broad_blade_sand_cast
+- tconstruct:tool_binding_sand_cast
+- tconstruct:large_plate_sand_cast
+- tconstruct:tool_handle_sand_cast
+- tconstruct:tough_handle_sand_cast
+
+#forge:nuggets/lead
+- thermal:lead_nugget
+
+#tconstruct:fireballs
+- minecraft:fire_charge
+
+#forge:glass_panes/yellow
+- minecraft:yellow_stained_glass_pane
+- tconstruct:yellow_clear_stained_glass_pane
+
+#forge:gems/lapis
+- minecraft:lapis_lazuli
+
+#forge:gunpowder
+- minecraft:gunpowder
+
+#forge:crops/radish
+
+#forge:seeds/spinach
+
+#tconstruct:modifiable/held
+- #tconstruct:modifiable/one_handed
+- #tconstruct:modifiable/two_handed
+
+#forge:crops/bell_pepper
+
+#forge:ingots/nickel
+- thermal:nickel_ingot
+
+#forge:crops/tomato
+
+#forge:slimeball/ichor
+- tconstruct:ichor_slime_ball
+
+#forge:tools/tin
+
+#forge:slimeball/sky
+- tconstruct:sky_slime_ball
+
+#forge:crops
+- #forge:crops/beetroot
+- #forge:crops/carrot
+- #forge:crops/nether_wart
+- #forge:crops/potato
+- #forge:crops/wheat
+
+#forge:storage_blocks/apatite
+- thermal:apatite_block
+
+#forge:crops/spinach
+
+#tconstruct:casts/multi_use/rod
+- tconstruct:rod_cast
+
+#forge:plates/nickel
+- thermal:nickel_plate
+
+#thermal:crafting/locks
+- thermal:lock
+
+#tconstruct:casts/red_sand
+- tconstruct:blank_red_sand_cast
+- tconstruct:ingot_red_sand_cast
+- tconstruct:nugget_red_sand_cast
+- tconstruct:gem_red_sand_cast
+- tconstruct:rod_red_sand_cast
+- tconstruct:repair_kit_red_sand_cast
+- tconstruct:plate_red_sand_cast
+- tconstruct:gear_red_sand_cast
+- tconstruct:coin_red_sand_cast
+- tconstruct:wire_red_sand_cast
+- tconstruct:pickaxe_head_red_sand_cast
+- tconstruct:small_axe_head_red_sand_cast
+- tconstruct:small_blade_red_sand_cast
+- tconstruct:hammer_head_red_sand_cast
+- tconstruct:broad_axe_head_red_sand_cast
+- tconstruct:broad_blade_red_sand_cast
+- tconstruct:tool_binding_red_sand_cast
+- tconstruct:large_plate_red_sand_cast
+- tconstruct:tool_handle_red_sand_cast
+- tconstruct:tough_handle_red_sand_cast
+
+#tconstruct:autosmelt_blacklist
+
+#forge:seeds/peanut
+
+#tconstruct:modifiable/armor/chestplate
+- tconstruct:travelers_chestplate
+- tconstruct:plate_chestplate
+- tconstruct:slime_chestplate
+
+#itemfilters:check_nbt
+- minecraft:potion
+- minecraft:splash_potion
+- minecraft:lingering_potion
+- minecraft:enchanted_book
+- minecraft:tipped_arrow
+
+#forge:ores/silver
+- thermal:silver_ore
+
+#minecraft:birch_logs
+- minecraft:birch_log
+- minecraft:birch_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+
+#tconstruct:slimy_planks
+- tconstruct:greenheart_planks
+- tconstruct:skyroot_planks
+- tconstruct:bloodshroom_planks
+
+#mysticalagriculture:material/saltpeter
+- #forge:dusts/saltpeter?
+- #forge:dusts/niter?
+- thermal:niter_dust?
+
+#forge:glass_panes/purple
+- minecraft:purple_stained_glass_pane
+- tconstruct:purple_clear_stained_glass_pane
+
+#forge:dusts
+- #forge:dusts/glowstone
+- #forge:dusts/prismarine
+- #forge:dusts/redstone
+- #forge:dusts/apatite
+- #forge:dusts/bronze
+- #forge:dusts/cinnabar
+- #forge:dusts/constantan
+- #forge:dusts/copper
+- #forge:dusts/diamond
+- #forge:dusts/electrum
+- #forge:dusts/emerald
+- #forge:dusts/ender_pearl
+- #forge:dusts/enderium
+- #forge:dusts/gold
+- #forge:dusts/invar
+- #forge:dusts/iron
+- #forge:dusts/lapis
+- #forge:dusts/lead
+- #forge:dusts/lumium
+- #forge:dusts/netherite
+- #forge:dusts/nickel
+- #forge:dusts/niter
+- #forge:dusts/quartz
+- #forge:dusts/ruby
+- #forge:dusts/sapphire
+- #forge:dusts/signalum
+- #forge:dusts/silver
+- #forge:dusts/sulfur
+- #forge:dusts/tin
+
+#forge:armor/silver
+
+#forge:glass/yellow
+- minecraft:yellow_stained_glass
+- tconstruct:yellow_clear_stained_glass
+
+#forge:tools/electrum
+
+#forge:nuggets/cobalt
+- tconstruct:cobalt_nugget
+
+#forge:gears/ruby
+- thermal:ruby_gear
+
+#forge:seeds
+- #forge:seeds/beetroot
+- #forge:seeds/melon
+- #forge:seeds/pumpkin
+- #forge:seeds/wheat
+
+#minecraft:oak_logs
+- minecraft:oak_log
+- minecraft:oak_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+
+#forge:coins
+- #forge:coins/bronze
+- #forge:coins/constantan
+- #forge:coins/copper
+- #forge:coins/electrum
+- #forge:coins/enderium
+- #forge:coins/gold
+- #forge:coins/invar
+- #forge:coins/iron
+- #forge:coins/lead
+- #forge:coins/lumium
+- #forge:coins/netherite
+- #forge:coins/nickel
+- #forge:coins/signalum
+- #forge:coins/silver
+- #forge:coins/tin
+
+#tconstruct:casts/multi_use/plate
+- tconstruct:plate_cast
+
+#forge:gears/invar
+- thermal:invar_gear
+
+#tconstruct:casts/single_use/tough_handle
+- tconstruct:tough_handle_sand_cast
+- tconstruct:tough_handle_red_sand_cast
+
+#forge:ores/inferium
+- mysticalagriculture:inferium_ore
+
+#forge:ores/lapis
+- minecraft:lapis_ore
+
+#forge:foods/meat/cooked
+- minecraft:cooked_porkchop
+- minecraft:cooked_beef
+- minecraft:cooked_rabbit
+- minecraft:cooked_chicken
+- minecraft:cooked_mutton
+
+#curios:belt
+- thermal:satchel
+
+#forge:storage_blocks/slimesteel
+- tconstruct:slimesteel_block
+
+#forge:coal_coke
+- thermal:coal_coke
+
+#forge:slimeballs
+- minecraft:slime_ball
+- #forge:slimeball/earth
+- #forge:slimeball/sky
+- #forge:slimeball/ichor
+- #forge:slimeball/ender
+- #forge:slimeball/blood
+
+#forge:storage_blocks/pig_iron
+- tconstruct:pig_iron_block
+
+#tconstruct:casts/single_use/gear
+- tconstruct:gear_sand_cast
+- tconstruct:gear_red_sand_cast
+
+#forge:ores/nickel
+- thermal:nickel_ore
+
+#forge:tools/gold
+- minecraft:golden_axe
+- minecraft:golden_hoe
+- minecraft:golden_pickaxe
+- minecraft:golden_shovel
+- minecraft:golden_sword
+
+#minecraft:jungle_logs
+- minecraft:jungle_log
+- minecraft:jungle_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+
+#tconstruct:modifiable/harvest/stone
+- tconstruct:pickaxe
+- tconstruct:sledge_hammer
+- tconstruct:vein_hammer
+
+#forge:sawdust
+- thermal:sawdust
+
+#minecraft:lectern_books
+- minecraft:written_book
+- minecraft:writable_book
+- #tconstruct:guides
+
+#forge:chests/ender
+- minecraft:ender_chest
+
+#mysticalagriculture:essences
+- mysticalagriculture:air_essence
+- mysticalagriculture:earth_essence
+- mysticalagriculture:water_essence
+- mysticalagriculture:fire_essence
+- mysticalagriculture:inferium_essence
+- mysticalagriculture:stone_essence
+- mysticalagriculture:dirt_essence
+- mysticalagriculture:wood_essence
+- mysticalagriculture:ice_essence
+- mysticalagriculture:nature_essence
+- mysticalagriculture:dye_essence
+- mysticalagriculture:nether_essence
+- mysticalagriculture:coal_essence
+- mysticalagriculture:coral_essence
+- mysticalagriculture:honey_essence
+- mysticalagriculture:pig_essence
+- mysticalagriculture:chicken_essence
+- mysticalagriculture:cow_essence
+- mysticalagriculture:sheep_essence
+- mysticalagriculture:squid_essence
+- mysticalagriculture:fish_essence
+- mysticalagriculture:slime_essence
+- mysticalagriculture:turtle_essence
+- mysticalagriculture:rubber_essence
+- mysticalagriculture:silicon_essence
+- mysticalagriculture:sulfur_essence
+- mysticalagriculture:aluminum_essence
+- mysticalagriculture:copper_essence
+- mysticalagriculture:saltpeter_essence
+- mysticalagriculture:apatite_essence
+- mysticalagriculture:mystical_flower_essence
+- mysticalagriculture:marble_essence
+- mysticalagriculture:limestone_essence
+- mysticalagriculture:basalt_essence
+- mysticalagriculture:iron_essence
+- mysticalagriculture:nether_quartz_essence
+- mysticalagriculture:glowstone_essence
+- mysticalagriculture:redstone_essence
+- mysticalagriculture:obsidian_essence
+- mysticalagriculture:prismarine_essence
+- mysticalagriculture:zombie_essence
+- mysticalagriculture:skeleton_essence
+- mysticalagriculture:creeper_essence
+- mysticalagriculture:spider_essence
+- mysticalagriculture:rabbit_essence
+- mysticalagriculture:tin_essence
+- mysticalagriculture:bronze_essence
+- mysticalagriculture:zinc_essence
+- mysticalagriculture:brass_essence
+- mysticalagriculture:silver_essence
+- mysticalagriculture:lead_essence
+- mysticalagriculture:graphite_essence
+- mysticalagriculture:blizz_essence
+- mysticalagriculture:blitz_essence
+- mysticalagriculture:basalz_essence
+- mysticalagriculture:tinkers_bronze_essence
+- mysticalagriculture:slimesteel_essence
+- mysticalagriculture:pig_iron_essence
+- mysticalagriculture:manasteel_essence
+- mysticalagriculture:steeleaf_essence
+- mysticalagriculture:ironwood_essence
+- mysticalagriculture:ender_biotite_essence
+- mysticalagriculture:aquamarine_essence
+- mysticalagriculture:sky_stone_essence
+- mysticalagriculture:certus_quartz_essence
+- mysticalagriculture:quartz_enriched_iron_essence
+- mysticalagriculture:gold_essence
+- mysticalagriculture:lapis_lazuli_essence
+- mysticalagriculture:end_essence
+- mysticalagriculture:experience_essence
+- mysticalagriculture:blaze_essence
+- mysticalagriculture:ghast_essence
+- mysticalagriculture:enderman_essence
+- mysticalagriculture:steel_essence
+- mysticalagriculture:nickel_essence
+- mysticalagriculture:constantan_essence
+- mysticalagriculture:electrum_essence
+- mysticalagriculture:invar_essence
+- mysticalagriculture:mithril_essence
+- mysticalagriculture:tungsten_essence
+- mysticalagriculture:titanium_essence
+- mysticalagriculture:uranium_essence
+- mysticalagriculture:chrome_essence
+- mysticalagriculture:ruby_essence
+- mysticalagriculture:sapphire_essence
+- mysticalagriculture:signalum_essence
+- mysticalagriculture:lumium_essence
+- mysticalagriculture:hop_graphite_essence
+- mysticalagriculture:cobalt_essence
+- mysticalagriculture:rose_gold_essence
+- mysticalagriculture:elementium_essence
+- mysticalagriculture:osmium_essence
+- mysticalagriculture:fluorite_essence
+- mysticalagriculture:refined_glowstone_essence
+- mysticalagriculture:refined_obsidian_essence
+- mysticalagriculture:knightmetal_essence
+- mysticalagriculture:fiery_ingot_essence
+- mysticalagriculture:starmetal_essence
+- mysticalagriculture:compressed_iron_essence
+- mysticalagriculture:fluix_essence
+- mysticalagriculture:energized_steel_essence
+- mysticalagriculture:blazing_crystal_essence
+- mysticalagriculture:diamond_essence
+- mysticalagriculture:emerald_essence
+- mysticalagriculture:netherite_essence
+- mysticalagriculture:wither_skeleton_essence
+- mysticalagriculture:platinum_essence
+- mysticalagriculture:iridium_essence
+- mysticalagriculture:enderium_essence
+- mysticalagriculture:manyullyn_essence
+- mysticalagriculture:queens_slime_essence
+- mysticalagriculture:hepatizon_essence
+- mysticalagriculture:terrasteel_essence
+- mysticalagriculture:rock_crystal_essence
+- mysticalagriculture:draconium_essence
+- mysticalagriculture:yellorium_essence
+- mysticalagriculture:cyanite_essence
+- mysticalagriculture:niotic_crystal_essence
+- mysticalagriculture:spirited_crystal_essence
+- mysticalagriculture:uraninite_essence
+
+#forge:dusts/niter
+- thermal:niter_dust
+
+#minecraft:spruce_logs
+- minecraft:spruce_log
+- minecraft:spruce_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+
+#forge:armor/iron
+- minecraft:iron_boots
+- minecraft:iron_chestplate
+- minecraft:iron_helmet
+- minecraft:iron_leggings
+
+#forge:fence_gates/wooden
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:acacia_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- tconstruct:greenheart_fence_gate
+- tconstruct:skyroot_fence_gate
+- tconstruct:bloodshroom_fence_gate
+
+#tconstruct:casts/single_use/ingot
+- tconstruct:ingot_sand_cast
+- tconstruct:ingot_red_sand_cast
+
+#forge:glass_panes/lime
+- minecraft:lime_stained_glass_pane
+- tconstruct:lime_clear_stained_glass_pane
+
+#forge:storage_blocks/manyullyn
+- tconstruct:manyullyn_block
+
+#forge:shears
+- minecraft:shears
+- tconstruct:kama
+
+#forge:gems/ruby
+- thermal:ruby
+
+#forge:ingots/lumium
+- thermal:lumium_ingot
+
+#forge:ingots/lead
+- thermal:lead_ingot
+
+#forge:dusts/electrum
+- thermal:electrum_dust
+
+#tconstruct:greenheart_logs
+- tconstruct:greenheart_log
+- tconstruct:stripped_greenheart_log
+- tconstruct:greenheart_wood
+- tconstruct:stripped_greenheart_wood
+
+#forge:gears/diamond
+- thermal:diamond_gear
+
+#minecraft:flowers
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
+
+#forge:storage_blocks/cobalt
+- tconstruct:cobalt_block
+
+#forge:dusts/quartz
+- thermal:quartz_dust
+
+#forge:seeds/corn
+
+#minecraft:planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- #tconstruct:slimy_planks
+
+#forge:dusts/tin
+- thermal:tin_dust
+
+#forge:seeds/strawberry
+
+#forge:cobblestone
+- minecraft:cobblestone
+- minecraft:infested_cobblestone
+- minecraft:mossy_cobblestone
+
+#forge:nuggets/rose_gold
+- tconstruct:rose_gold_nugget
+
+#forge:dusts/sulfur
+- thermal:sulfur_dust
+
+#forge:seeds/radish
+
+#forge:dyes/brown
+- minecraft:brown_dye
+
+#forge:seeds/tomato
+
+#forge:storage_blocks/gold
+- minecraft:gold_block
+
+#tconstruct:foundry
+- #tconstruct:scorched_blocks
+- #tconstruct:scorched_tanks
+- tconstruct:foundry_controller
+- tconstruct:scorched_drain
+- tconstruct:scorched_chute
+- tconstruct:scorched_duct
+- tconstruct:scorched_glass
+- tconstruct:scorched_ladder
+
+#forge:gears/lumium
+- thermal:lumium_gear
+
+#forge:ores
+- #forge:ores/coal
+- #forge:ores/diamond
+- #forge:ores/emerald
+- #forge:ores/gold
+- #forge:ores/iron
+- #forge:ores/lapis
+- #forge:ores/redstone
+- #forge:ores/quartz
+- #forge:ores/netherite_scrap
+- #forge:ores/apatite
+- #forge:ores/cinnabar
+- #forge:ores/copper
+- #forge:ores/lead
+- #forge:ores/nickel
+- #forge:ores/niter
+- #forge:ores/ruby
+- #forge:ores/sapphire
+- #forge:ores/silver
+- #forge:ores/sulfur
+- #forge:ores/tin
+- #forge:ores/inferium
+- #forge:ores/prosperity
+- #forge:ores/soulium
+- #forge:ores/cobalt
+- #forge:ores/copper
+
+#tconstruct:modifiable/one_handed
+- tconstruct:pickaxe
+- tconstruct:mattock
+- tconstruct:hand_axe
+- tconstruct:kama
+- tconstruct:dagger
+- tconstruct:sword
+- tconstruct:flint_and_bronze
+
+#tconstruct:slimeslings
+- tconstruct:earth_slime_sling
+- tconstruct:sky_slime_sling
+- tconstruct:ichor_slime_sling
+- tconstruct:ender_slime_sling
+
+#tconstruct:casts/single_use/small_axe_head
+- tconstruct:small_axe_head_sand_cast
+- tconstruct:small_axe_head_red_sand_cast
+
+#tconstruct:casts/multi_use/repair_kit
+- tconstruct:repair_kit_cast
+
+#forge:seeds/flax
+
+#forge:rods/wooden
+- minecraft:stick
+
+#tconstruct:modifiable/melee
+- tconstruct:pickaxe
+- tconstruct:vein_hammer
+- tconstruct:mattock
+- tconstruct:excavator
+- tconstruct:kama
+- tconstruct:flint_and_bronze
+- #tconstruct:modifiable/melee/primary
+- #tconstruct:modifiable/melee/sword
+
+#tconstruct:modifiable/durability
+- tconstruct:pickaxe
+- tconstruct:sledge_hammer
+- tconstruct:vein_hammer
+- tconstruct:mattock
+- tconstruct:excavator
+- tconstruct:hand_axe
+- tconstruct:broad_axe
+- tconstruct:kama
+- tconstruct:scythe
+- tconstruct:dagger
+- tconstruct:sword
+- tconstruct:cleaver
+- tconstruct:flint_and_bronze
+- tconstruct:travelers_boots
+- tconstruct:travelers_leggings
+- tconstruct:travelers_chestplate
+- tconstruct:travelers_helmet
+- tconstruct:plate_boots
+- tconstruct:plate_leggings
+- tconstruct:plate_chestplate
+- tconstruct:plate_helmet
+- tconstruct:slime_boots
+- tconstruct:slime_leggings
+- tconstruct:slime_chestplate
+- tconstruct:slime_helmet
+
+#forge:dusts/prismarine
+- minecraft:prismarine_shard
+
+#forge:fences
+- #forge:fences/nether_brick
+- #forge:fences/wooden
+
+#forge:tools/iron
+- minecraft:iron_axe
+- minecraft:iron_hoe
+- minecraft:iron_pickaxe
+- minecraft:iron_shovel
+- minecraft:iron_sword
+- minecraft:shears
+
+#forge:seeds/onion
+
+#forge:coins/iron
+- thermal:iron_coin
+
+#curios:back
+- thermal:satchel
+
+#forge:storage_blocks/diamond
+- minecraft:diamond_block
+
+#tconstruct:parts
+- tconstruct:pickaxe_head
+- tconstruct:hammer_head
+- tconstruct:small_axe_head
+- tconstruct:broad_axe_head
+- tconstruct:small_blade
+- tconstruct:broad_blade
+- tconstruct:tool_binding
+- tconstruct:large_plate
+- tconstruct:tool_handle
+- tconstruct:tough_handle
+- tconstruct:repair_kit
+
+#forge:dusts/lead
+- thermal:lead_dust
+
+#forge:storage_blocks/bamboo
+- thermal:bamboo_block
+
+#forge:storage_blocks/slag
+- thermal:slag_block
+
+#tconstruct:structure_debug/foundry
+- #tconstruct:structure_debug/general
+- #tconstruct:foundry
+
+#forge:plates/copper
+- thermal:copper_plate

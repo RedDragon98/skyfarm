@@ -1,0 +1,138 @@
+[16:43:20] [INFO ] server_scripts:script.js:8: Hello, World! (You will see this line every time server resources reload)
+[16:43:20] [INFO ] SourceFile:407: Loaded script server_scripts:script.js in 0.001 s
+[16:43:20] [INFO ] SourceFile:407: Loaded 1/1 KubeJS server scripts in 0.009 s
+[16:43:20] [INFO ] Scripts loaded
+[16:43:20] [INFO ] Scanning recipes...
+[16:43:21] [INFO ] [blocks] Found 274 tags, added 0 objects, removed 0 objects
+[16:43:21] [INFO ] [blocks] Found 274 tags, added 0 objects, removed 0 objects
+[16:43:21] [INFO ] [items] Found 581 tags, added 0 objects, removed 0 objects
+[16:43:21] [INFO ] [items] Found 581 tags, added 0 objects, removed 0 objects
+[16:43:21] [INFO ] [fluids] Found 108 tags, added 0 objects, removed 0 objects
+[16:43:21] [INFO ] [fluids] Found 108 tags, added 0 objects, removed 0 objects
+[16:43:21] [INFO ] [entity_types] Found 13 tags, added 0 objects, removed 0 objects
+[16:43:21] [INFO ] [entity_types] Found 13 tags, added 0 objects, removed 0 objects
+[16:43:21] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[16:43:21] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[16:43:21] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[16:43:21] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[16:43:21] [INFO ] [tile_entity_types] Found 1 tags, added 0 objects, removed 0 objects
+[16:43:21] [INFO ] [tile_entity_types] Found 1 tags, added 0 objects, removed 0 objects
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_zombie_pigman_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_zombie_pigman_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_zombie_pigman_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_zombie_pigman_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_stray_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_stray_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_stray_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_stray_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_fox_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_fox_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_fox_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_fox_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_husk_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_husk_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_husk_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_husk_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_endermite_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_endermite_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_endermite_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_endermite_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_vex_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_vex_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_vex_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_vex_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_witch_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_witch_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_witch_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_witch_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_panda_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_panda_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_panda_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_panda_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_pillager_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_pillager_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_pillager_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_pillager_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_vindicator_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_vindicator_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_vindicator_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_vindicator_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_phantom_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_phantom_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_phantom_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_phantom_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_shulker_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_shulker_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_shulker_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_shulker_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_ravager_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_ravager_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_ravager_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_ravager_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_villager_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_villager_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_villager_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_villager_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_evoker_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_evoker_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_evoker_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_evoker_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_parrot_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_parrot_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_parrot_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_parrot_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_guardian_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_guardian_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_guardian_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_guardian_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_magma_cube_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_magma_cube_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_magma_cube_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_magma_cube_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_drowned_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_drowned_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_drowned_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_drowned_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_dolphin_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_dolphin_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_dolphin_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_dolphin_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_wolf_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_wolf_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_wolf_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_wolf_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_cat_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_cat_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_cat_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_cat_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_bat_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_bat_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_bat_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_bat_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_polar_bear_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_polar_bear_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_polar_bear_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_polar_bear_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_mooshroom_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_mooshroom_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_mooshroom_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_mooshroom_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_llama_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_llama_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_llama_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_llama_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_horse_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_horse_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_horse_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_horse_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_silverfish_seeds[thermal:insolator]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_silverfish_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [WARN ] Failed to parse recipe thermal:compat/mysticalagriculture/insolator_mysticalag_silverfish_seeds[thermal:insolator]: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/mysticalagriculture/insolator_mysticalag_silverfish_seeds
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[16:43:21] [INFO ] Found 4166 recipes and 0 failed recipes in 203.9 ms
+[16:43:21] [INFO ] Posted recipe events in 279.6 μs
+[16:43:21] [INFO ] Modified & removed recipes in 91.38 ms
+[16:43:21] [INFO ] Added recipes in 13.70 μs
+[16:43:21] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
+[16:43:22] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[16:43:22] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects

@@ -1,0 +1,30 @@
+[15:51:48.962][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[15:51:49.577][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+'astralsorcery' at version '1.16.4-1.14.1'
+'botanypots' at version '7.1.39'
+'crafttweaker' at version '7.1.2.512'
+'mysticalagriculture' at version '4.2.6'
+'tconstruct' at version '3.3.4.335'
+'thermal' at version '1.5.0.14'
+'thermal_foundation' at version '1.5.0.14'
+[15:51:50.328][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
+[15:52:01.742][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
+[15:52:03.006][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
+[15:52:38.455][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[15:52:38.592][DONE][CLIENT][INFO] Loading file: 'altarfix.zs' with priority: 10
+[15:52:38.595][DONE][CLIENT][INFO] Loading file: 'prosperity.zs' with priority: 10
+[15:52:38.629][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:stone_seeds" that outputs: <item:mysticalagriculture:stone_seeds>.mutable()
+[15:52:38.630][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:prosperity_shards" that outputs: <item:mysticalagriculture:prosperity_shard>.mutable()
+[15:52:38.630][DONE][CLIENT][INFO] Finished loading Scripts!
+[15:52:38.632][DONE][CLIENT][INFO] This reload was made possible by Zuniroa and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[15:52:43.260][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[15:52:43.385][DONE][CLIENT][INFO] Loading file: 'altarfix.zs' with priority: 10
+[15:52:43.386][DONE][CLIENT][INFO] Loading file: 'prosperity.zs' with priority: 10
+[15:52:43.407][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:stone_seeds" that outputs: <item:mysticalagriculture:stone_seeds>.mutable()
+[15:52:43.407][DONE][CLIENT][INFO] Adding "minecraft:crafting" recipe, of type: "shapeless", with name: "crafttweaker:prosperity_shards" that outputs: <item:mysticalagriculture:prosperity_shard>.mutable()
+[15:52:43.407][DONE][CLIENT][INFO] Finished loading Scripts!
+[15:52:43.409][DONE][CLIENT][INFO] This reload was made possible by Manmana and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[15:52:50.442][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[15:52:50.539][DONE][CLIENT][INFO] Loading file: 'altarfix.zs' with priority: 10
+[15:52:50.540][DONE][CLIENT][INFO] Loading file: 'prosperity.zs' with priority: 10
+[15:52:50.557][DONE][CLIENT][INFO] Finished loading Scripts!

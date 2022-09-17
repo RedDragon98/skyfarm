@@ -1,0 +1,1 @@
+craftingTable.addShapeless("prosperity_shards", <item:mysticalagriculture:prosperity_shard>, [<item:mysticalagriculture:prosperity_plant_essence>, <item:mysticalagriculture:prosperity_plant_essence>]);
