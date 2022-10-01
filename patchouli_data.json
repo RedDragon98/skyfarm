@@ -1,1 +1,40 @@
-{"bookGuiScale":0,"clickedVisualize":false,"bookData":{}}
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "thermal:guidebook": {
+      "viewedEntries": [
+        "thermal:technology/65_items",
+        "thermal:storage_and_transport/dynamics",
+        "thermal:technology/redprint",
+        "thermal:technology/dynamos/introduction",
+        "thermal:technology/dynamos/compression",
+        "thermal:technology/dynamos/magmatic",
+        "thermal:technology/dynamos/gourmand",
+        "thermal:technology/dynamos/disenchantment",
+        "thermal:technology/augments/integral_components",
+        "thermal:technology/machines/insolator",
+        "thermal:technology/machines/refinery",
+        "thermal:world/materials/rockwool",
+        "thermal:technology/devices/tree_extractor"
+      ],
+      "bookmarks": [],
+      "history": [
+        "thermal:technology/devices/tree_extractor",
+        "thermal:technology/augments/integral_components",
+        "thermal:technology/dynamos/compression",
+        "thermal:world/materials/rockwool",
+        "thermal:technology/machines/refinery",
+        "thermal:technology/machines/insolator",
+        "thermal:technology/dynamos/disenchantment",
+        "thermal:technology/dynamos/gourmand",
+        "thermal:technology/dynamos/magmatic",
+        "thermal:technology/dynamos/introduction",
+        "thermal:technology/redprint",
+        "thermal:storage_and_transport/dynamics",
+        "thermal:technology/65_items"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

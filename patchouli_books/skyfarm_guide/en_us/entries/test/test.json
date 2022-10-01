@@ -1,0 +1,29 @@
+{
+    "name": "Stone Seeds",
+    "icon": "minecraft:stone",
+    "category": "patchouli:ch1",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "To get stone seeds, you will need to mine the stone at the bottom of your island. Create a wooden pickaxe in the crafting table, then use blocks/slabs to get to the bottom of your island and mine the stone"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Next, you need to collect 4 inferium essence and 4 prosperity shards from your plants."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "stone_seeds",
+            "recipe2": "prosperity_shards"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "After you get the stone seeds, plant it on farmland. Once it grows, harvest it for stone essence. You can craft cobblestone using the stone essence."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "stone_seeds",
+            "recipe2": "prosperity_shards"
+        }
+    ]
+}
